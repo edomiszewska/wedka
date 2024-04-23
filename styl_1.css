@@ -1,0 +1,45 @@
+body{
+    font-family: Georgia;
+}
+header{
+    background-color: dodgerblue;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+main{
+    background-color: lightblue;
+    color: white;
+    padding: 100px;
+
+}
+
+section{
+background-color: dodgerblue;
+color: white;
+width: 20%;
+height: 220px;
+
+}
+
+article, aside{
+    background-color: dodgerblue;
+    color: white;
+    width:40% ;
+    height: 220px;
+    text-align: center;
+
+    
+}
+
+a{
+    border: 1px dashed dimgray;
+    background-color: gold;
+    color: darkred;
+    padding: 10px;
+}
+
+footer{
+    display: flex;
+}
